@@ -1,0 +1,13 @@
+1. Generate a Random Number:
+    - Use the random module to generate a random number between 1 and 100.
+    - This number will be what the user needs to guess.
+
+2. Implement the While Loop:
+    - Continuously ask the user to guess the number until they guess correctly or reach the maximum number of attempts (set it to 10 guesses).
+    - After each guess, inform the user whether their guess is "Too high" or "Too low."
+
+Correct Output:
+Correct! You've guessed the number in (whatever your number is) guesses.
+
+Maximum attemtps prompt:
+Sorry, you've reached the maximum number of 10 guesses. The number was (whatever your number is).
